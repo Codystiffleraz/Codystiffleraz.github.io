@@ -10,10 +10,6 @@ body {
     font-family: 'Oswald', sans-serif;
 
     }
-    #Logo{
-        position: absolute;
-        top: 10px;
-    }
     #First_Name{
         justify-content: center;
         text-align: center;
