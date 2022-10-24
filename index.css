@@ -1,0 +1,59 @@
+body {
+    background-image: url(../Pictures/Background.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+
+    color: white;
+    font-family: 'Oswald', sans-serif;
+
+    }
+    #Logo{
+        position: absolute;
+        top: 10px;
+    }
+    #First_Name{
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        display: flex;
+        font-size: 80px;
+        font-family: 'Bebas Neue', cursive;
+        height: 150px;
+        padding-bottom: 0%;
+        margin-top: 250px;
+        /* background-color: green; */
+
+    }
+    #Python{
+        font-size: 20px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        display: flex;
+        margin-top: 0%;
+        padding-bottom: 250px;
+    }
+    nav ul{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: flex;
+        justify-content: center;
+    }
+    nav li{
+        display: inline-block;
+        margin-left:2%;
+        padding-top: 0px;
+
+        position: relative;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    /* #home{
+        padding-left: 25%;
+    } */
