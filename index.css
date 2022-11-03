@@ -50,6 +50,46 @@ body {
         text-decoration: none;
         color: white;
     }
-    /* #home{
-        padding-left: 25%;
-    } */
+
+#linkedin{
+    justify-content: center;
+        text-align: center;
+        align-items: center;
+        display: flex;
+        font-size: 50px;
+        font-family: 'Bebas Neue', cursive;
+        height: 150px;
+        padding-bottom: 0%;
+        margin-top: 10px;
+}
+#email{
+    justify-content: center;
+        text-align: center;
+        align-items: center;
+        display: flex;
+        font-size: 50px;
+        font-family: 'Bebas Neue', cursive;
+        height: 150px;
+        padding-bottom: 0%;
+        margin-top: 250px;
+}
+#Doggo_gram {
+    width: 1200px;
+    height: 600px;
+}
+.picture_about{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 400px;
+}
+.p{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+    height: 150px;
+}
